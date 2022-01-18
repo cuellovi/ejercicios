@@ -1,6 +1,8 @@
 peso = float(input("Ingrese su peso en kgs: "))
 altura = float(input("Ingrese su altura en mts: "))
 
+# TODO: Los decimales aplicar redondeo a 2 decimales en la salida
+
 imc = peso / (altura) ** 2
 
 if imc < 18.5:

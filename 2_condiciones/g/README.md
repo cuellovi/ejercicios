@@ -20,5 +20,5 @@
 | 3 o mas | 25% |
 
 
-## Escribir un programa que pregunte al usuario que tipo de fruta quiere y su cantidad e informe el precio que tienie que pagar
+## Escribir un programa que pregunte al usuario que tipo de fruta quiere y su cantidad e informe el precio que tiene que pagar
 
