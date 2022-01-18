@@ -1,9 +1,9 @@
 edad = int(input("Ingrese su edad: "))
 dosis = int(input("Ingrese cantidad de dósis aplicadas: "))
 
-# TODO: No informa que no deja ingresar a a menores
-# Teniedo en cuanto lo anterior cambiar la lógica
-# La lógica actual esta mal
+# TODO: No informa que no deja ingresar a menores
+# Teniendo en cuento lo anterior cambiar la lógica 
+# La lógica actual está mal
 
 if edad >= 18 and dosis >= 2:
     print("Persona habilitada para ingresar")
