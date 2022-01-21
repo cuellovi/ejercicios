@@ -1,8 +1,8 @@
 entero = int(input("Ingrese un número entero: "))
 
-# TODO: siempre me da impar
+# Cambié el operador, antes evaluaba el resultado, ahora el resto.
 
-if entero / 2 == 0:
+if entero % 2 == 0:
     print("El número es par")
 else:
     print("El número es impar")
@@ -12,12 +12,12 @@ else:
 
 real = float (input("Ingrese un número real: "))
 
-if real / 2 == 0:
+if real % 2 == 0:
     print("El número es par")
 else:
     print("El número es impar")
 
-# TODO: Que paso aca?
+# No entendí la consigna
 
 string = input("Ingrese una palabra: ")
 
