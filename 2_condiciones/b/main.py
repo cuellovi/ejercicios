@@ -12,12 +12,5 @@ else:
 
 real = float (input("Ingrese un número real: "))
 
-if real % 2 == 0:
-    print("El número es par")
-else:
-    print("El número es impar")
-
-# No entendí la consigna
-
-string = input("Ingrese una palabra: ")
-
+# NO SE PUEDE SABER SIN UN NUMERO REAL ES PAR O IMPAR
+# NO SE PUEDE SABER SI UN STRING ES PAR O IMPAR
