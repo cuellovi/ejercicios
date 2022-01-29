@@ -1,6 +1,6 @@
 ## Pregunta: Que hace el método INDEX en una LISTA?
 ## Respuesta: Devuelve el índice de un elemento de 
-##            la lista dado como argumento de la función
+##            la lista dado como argumento del metodo
 
 lista = [3, "HOLA", True, [2, 3, 6], "Mundo", 8]
 
