@@ -7,12 +7,8 @@ palabra2 = input("Ingrese otra palabra: ")
 
 buscarpalabra = palabra1.find(palabra2)
 
-print(buscarpalabra)
+if buscarpalabra == -1:
+    print(palabra2, "no se encuentra dentro de ", palabra1)
 
-#Si pongo cualquier caracter y no está dentro de la palabra,
-# me aparece en la posicion "-1"
-
-##if buscarpalabra != "":
-##    print(palabra2, "se encuentra en la posición: ", buscarpalabra, "de, ", palabra1)
-##else:
- ##   print("No se encuentra", palabra2, "dentro de", palabra1)    
+else:
+    print(palabra2, "se encuentra en la posición: ", buscarpalabra, "dentro de ", palabra1)

@@ -1,6 +1,5 @@
-from re import S
+mensaje = "Hola como te va, el jueves jugamos al futbol y al tenis"
 
-
-string = "Hola como te va, el jueves jugamos al futbol y al tenis"
-
-##No me estoy dando cuenta como resolverlo
+for i in range(len(mensaje)):
+    
+    
